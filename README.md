@@ -28,5 +28,5 @@ Welcome to my Prompt Engineering Portfolio. I specialize in:
 
 ## 📫 Contact
 If you're hiring or want to collaborate:
-- 🔗 [LinkedIn]
+- 🔗 [LinkedIn] ttps://www.linkedin.com
 - 📧 pragna.00@hotmail.com
